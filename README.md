@@ -44,12 +44,14 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Pinned Repositories</b></summary>
+  <p align="center">
   <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=N1ght_Frmwrk&hide_border=true"/>
   <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Ipentst&hide_border=true"/>
   <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=LKx21&hide_border=true"/>
   <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Lazmania&hide_border=true"/>
   <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=IbisNM&hide_border=true"/>
   <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Netroid&hide_border=true"/>
+  </p>
 </details>
 
 <details>
