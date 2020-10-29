@@ -33,7 +33,5 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
 
-![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
