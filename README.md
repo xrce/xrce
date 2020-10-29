@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)
 
-![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&theme=radical&include_all_commits=true&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=hacktoberfest2020&theme=radical)](https://github.com/N1ght420/hacktoberfest2020)
+![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=hacktoberfest2020&hide_border=true)](https://github.com/N1ght420/hacktoberfest2020)
