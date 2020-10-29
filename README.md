@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **N1ght420/N1ght420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, my name is Rakka Pratama 👋
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+</p>
+
+![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&theme=radical&include_all_commits=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
