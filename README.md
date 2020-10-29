@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on your Open Source Project
 - ⚡ Fun fact: It's not healthy, but i love chocolate so much
 
-![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&include_all_commits=true&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&include_all_commits=true&hide_border=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=N1ght_Frmwrk)](https://github.com/N1ght420/N1ght_Frmwrk)
