@@ -13,12 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, my name is Rakka Pratama 👋
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 </p>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)
+
+### Hi there, my name is Rakka Pratama 👋
+### I'm a Computer Science and Engineering Student
+
+- 🔭 I’m currently working on Web development technologies
+- 🌱 I’m currently learning Laravel and Arduino
+- 👯 I’m looking to collaborate on your Open Source Project
+- ⚡ Fun fact: It's not healthy, but i love chocolate so much
 
 ![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&theme=radical&include_all_commits=true&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
