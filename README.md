@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on your Open Source Project
 - ⚡ Fun fact: It's not healthy, but i love chocolate so much
 
-![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&include_all_commits=true&hide_border=true&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![N1ght420's github stats](https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&theme=radical&include_all_commits=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=N1ght_Frmwrk)](https://github.com/N1ght420/N1ght_Frmwrk)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Ipentst)](https://github.com/N1ght420/Ipentst)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=LKx21)](https://github.com/N1ght420/LKx21)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Lazmania)](https://github.com/N1ght420/Lazmania)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=IbisNM)](https://github.com/N1ght420/IbisNM)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Netroid)](https://github.com/N1ght420/Netroid)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=N1ght_Frmwrk&theme=radical)](https://github.com/N1ght420/N1ght_Frmwrk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Ipentst&theme=radical)](https://github.com/N1ght420/Ipentst)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=LKx21&theme=radical)](https://github.com/N1ght420/LKx21)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Lazmania&theme=radical)](https://github.com/N1ght420/Lazmania)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=IbisNM&theme=radical)](https://github.com/N1ght420/IbisNM)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Netroid&theme=radical)](https://github.com/N1ght420/Netroid)
