@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <p align="center">
     <i>Let's connect and chat! We are about to Change the World.</i><br><br>
     <a href="https://twitter.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rakka-pratama-putra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakka-pratama-putra" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/rakka-pratama-74612718b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakka-pratama-74612718b" height="30" width="40" /></a>
     <a href="https://fb.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
     <a href="https://instagram.com/putra.go.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/ucz44r-0tngtx0bjmmejeb4q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz44r-0tngtx0bjmmejeb4q" height="30" width="40" /></a>
