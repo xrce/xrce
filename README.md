@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 </p>
 
-<img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 <!-- <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true&theme=radical"/> -->
 
 ### Hi there, my name is Rakka Pratama 👋
