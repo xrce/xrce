@@ -18,11 +18,8 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 </p>
 
-<!--
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" />
--->
 <img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<!-- <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true&theme=radical"/> -->
 
 ### Hi there, my name is Rakka Pratama 👋
 ### I'm a Computer Science and Engineering Student
@@ -52,12 +49,6 @@ Here are some ideas to get you started:
 
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&redirect=true)
-
-<details>
-  <summary><b>My Github Stats</b></summary>
-  <img alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true&theme=radical"/>
-</details>
 
 <details>
   <summary><b>Pinned Repositories</b></summary>
