@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### Hi there, my name is Rakka Pratama 👋
 ### I'm a Computer Science and Engineering Student
 
-- 🔭 I’m currently working on Web development technologies
-- 🌱 I’m currently learning Laravel and Arduino
+- 🔭 I’m currently working on Penetration Testing
+- 🌱 I’m currently learning Arduino and Cryptocurrency
 - 👯 I’m looking to collaborate on your Open Source Project
 - ⚡ Fun fact: It's not healthy, but i love chocolate so much
 
