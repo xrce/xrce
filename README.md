@@ -10,7 +10,7 @@
 ┏                                                                        
 No Matter how far you try,
 the shadows always loses against the light,
-the unknown always loses always the name.
+the unknown always loses against the name.
 In the end, you are nothing more than a hardworking loser
                                                                         ┛
 
